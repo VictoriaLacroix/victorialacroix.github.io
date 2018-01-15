@@ -1,6 +1,3 @@
 [submodule "interface"]
 	path = interface
 	url = https://www.github.com/VictoriaLacroix/interface.git
-[submodule "ngdc-2018"]
-	path = ngdc-2018
-	url = ./ngdc-2018/
